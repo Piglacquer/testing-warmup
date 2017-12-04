@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "warmup",
+  "main": "tests.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "directories":{
+    "test": "main.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Piglacquer/testing-warmup.git"
+  },
+  "author": "biffle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piglacquer/testing-warmup/issues"
+  },
+  "homepage": "https://github.com/Piglacquer/testing-warmup#readme"
+}
